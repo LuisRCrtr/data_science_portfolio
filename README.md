@@ -1,5 +1,5 @@
 # data_science_portfolio
-data science project portfolio
+Data science project portfolio
 
 
 I am currently a chemistry student at Univerisidad Autónoma de Nuevo León.
